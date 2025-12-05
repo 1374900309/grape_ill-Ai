@@ -1,0 +1,12 @@
+{
+  "Healthy": "Leaves are healthy, no treatment required.",
+  "Early blight": "May be early blight. It is recommended to promptly remove diseased leaves, avoid excessive humidity, and apply protective fungicides.",
+  "Late blight": "May be late blight. Apply targeted fungicides in time and pay attention to field humidity control.",
+  "Leaf Mold": "Leaf mold. Pay attention to temperature and humidity regulation, maintain ventilation, and spray fungicides when necessary.",
+  "Septoria leaf spot": "May be Septoria leaf spot. Promptly remove diseased leaves and apply protective agents.",
+  "Two-spotted spider mite": "May be caused by two-spotted spider mites. Pay attention to pest control.",
+  "Target Spot": "Target spot. Avoid dense planting, strengthen ventilation, and use registered fungicides.",
+  "Tomato mosaic virus": "Tomato mosaic virus. It is recommended to remove infected plants and ensure seed health.",
+  "Tomato yellow leaf curl virus": "Tomato yellow leaf curl virus. Control the insect vectors (whiteflies) and remove infected plants.",
+  "Bacterial spot": "Bacterial spot. Avoid excessive field humidity, and use copper-based chemicals or registered antibiotics when necessary."
+}

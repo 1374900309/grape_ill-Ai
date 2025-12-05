@@ -1,0 +1,14 @@
+{
+  "class_to_idx": {
+    "Tomato_Bacterial_spot": 0,
+    "Tomato_Early_blight": 1,
+    "Tomato_Late_blight": 2,
+    "Tomato_Leaf_Mold": 3,
+    "Tomato_Septoria_leaf_spot": 4,
+    "Tomato_Spider_mites_Two_spotted_spider_mite": 5,
+    "Tomato__Target_Spot": 6,
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": 7,
+    "Tomato__Tomato_mosaic_virus": 8,
+    "Tomato_healthy": 9
+  }
+}
